@@ -15,7 +15,7 @@ Too high! Try again.
 Attempt 3/3. Enter your guess: 7
 Correct! You win!
 
-Author(s): Jun Brewer
+Author(s): Jun Brewer (No collaborators)
 Sources: Gemini, Claude, W3Schools
 Creation date: 2026/09/07
 No revisions has been made to this program thus far
